@@ -6,13 +6,24 @@
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Full-Stack editorial platform built with Spring Boot and Angular.
+---
+
+A role-based publishing platform built with Spring Boot and Angular, implementing secure authentication, article workflow and object storage.
 
 🚀 Overview
 
 DevNotes is a role-based publishing platform that allows users to create, review and manage technical articles.
 
 The project implements secure authentication, role-based authorization, article workflow management and external object storage.
+
+## 🛠 Tech Stack
+
+- Java 21
+- Spring Boot 4
+- Spring Security + JWT
+- Angular 17
+- MySQL
+- Docker + MinIO
 
 🏗 Architecture
 
